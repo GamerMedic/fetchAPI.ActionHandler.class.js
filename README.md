@@ -63,7 +63,9 @@ function createActionHandlers() {
         }
     });
 }
+```
 
-// Call the function to create action handlers
+Call the function to create action handlers
+```
 document.addEventListener('DOMContentLoaded', createActionHandlers);
 ```
