@@ -5,8 +5,8 @@ class ActionHandler {
             eventType: 'click', // Default event type
             selector: '.adminPanel__perform-action', // Default selector
             confirmMessages: {
-                approve: "Are you sure you want to give this person access to an FC Crystal account?",
-                reject: "Are you sure this person does not require an FC Crystal account?"
+                approve: "Are you sure you want to give this person access to an account?",
+                reject: "Are you sure this person does not require an account?"
             },
             uris: {
                 approve: null,
